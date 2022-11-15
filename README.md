@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Lamarkpacheco
 - 👀 I’m interested in ... coffeeeee
 - 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... lamark.pb@gmail.com
 - 
 
